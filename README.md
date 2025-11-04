@@ -39,6 +39,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 ## Developed by: Nirmal N
 ## RegisterNumber: 212223240107
+### date : 4.11.2025
 ```
 module ex11(out,clk,rstn);
 input clk,rstn;
